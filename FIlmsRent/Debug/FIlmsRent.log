@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\daniel\source\repos\films\filmsrent\source.cpp(66): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\daniel\source\repos\films\filmsrent\source.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FIlmsRent.vcxproj -> C:\Users\Daniel\source\repos\Films\Debug\FIlmsRent.exe
